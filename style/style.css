@@ -1,0 +1,21 @@
+ul li {
+    list-style: none;
+}
+
+li {
+    margin: 10px 0;
+}
+.heading{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.name {
+    margin-left: 20px;
+    font-size: 20px;
+    color: #0b97c4;
+}
+.screenName {
+    position: relative;
+    top: 10px;
+}
